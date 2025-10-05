@@ -1,4 +1,4 @@
-# Emotion-Detection
+Emotion Detection from Facial Images Using Deep Learning with Interactive Front-End in Google Colab
 Human emotions are an essential part of communication, expressing feelings and intentions beyond spoken words. Detecting emotions automatically through technology can improve human-computer interaction, healthcare monitoring, and intelligent systems. This project presents a deep learning-based emotion detection model designed to classify facial expressions into seven categories: angry, disgust, fear, happy, neutral, sad, and surprise.
 
 The dataset used for training consists of facial images labeled according to these emotions. To prepare the data, preprocessing steps are applied, such as resizing images to a fixed size, converting to grayscale or RGB, normalizing pixel values, and using augmentation methods like rotation and flipping. These steps ensure consistency in the dataset and help the model generalize better across variations in facial structures, lighting, and poses.
